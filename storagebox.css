@@ -1,0 +1,67 @@
+
+.headerdiv {
+    margin-bottom: 0px;
+}
+
+.mainbody {
+    float: none;
+    clear: both;
+    margin-left: 85px;
+    margin-right: 20px;
+}
+
+.leftframe {
+    width: 70%;
+    float: left;
+}        
+
+.rightframe {
+    width: 150px;
+    height: 150px;
+    float: right;
+    font-size: 0.8em;
+    padding:8px;
+    margin-top: 40px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    border: 1px solid;
+}
+       
+.stepbox {
+    width: 150px;
+    height: 150px;
+    float: left;
+    font-size: 0.8em;
+    padding:8px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    -moz-border-radius: 15px;
+    -webkit-border-radius: 15px;
+    border-radius: 15px;
+    border: 2px solid;
+    background: lightgray;
+}
+
+.step {
+  font-size: 80px;
+  width: 110px;
+}
+
+.sectiontitle {
+    font-size: 1.9em;
+    font-weight: 500;
+    margin-top: 1.5em;
+    margin-bottom:0.5em;
+}
+
+#footer {
+    border-top: 1.5em;
+    font-size: 0.7em;
+    clear: both;
+}
+
+.footnote {
+  vertical-align: super;
+  color: gray;
+}
